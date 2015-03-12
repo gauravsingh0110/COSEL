@@ -1,0 +1,1 @@
+curl -d @input.json 127.0.0.1:8080/wm/staticflowentrypusher/json
